@@ -9,8 +9,5 @@
         <module name="GitTestProject" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="GitTestProject" target="11" />
-    </bytecodeTargetLevel>
   </component>
 </project>
